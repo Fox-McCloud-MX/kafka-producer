@@ -1,4 +1,4 @@
-package com.mx.spring.boot.template;
+package com.mx.kafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
